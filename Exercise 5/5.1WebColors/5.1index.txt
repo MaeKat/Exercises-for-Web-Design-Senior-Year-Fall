@@ -1,0 +1,63 @@
+<!---Vanessa HOffmann | 3rd | 5.1 Web Colors -->
+
+<html>
+
+<head>
+	<style = "text/css">
+	body{
+		background-color:#F5DEB3;
+	}
+	
+	h1{	
+	color:#2E8B57;
+	}
+
+	div{
+		width:100px;
+		hieght: 30px;
+		border:1px solid black;
+		margin:0px 0px 10px 25px;
+		text-align: center;
+	}
+
+	#box1{
+		background-color:#DC143C;
+		color: #000;
+	}
+
+	#box2{
+		background-color: #DA70D6;
+		color: #000;
+	}
+
+	#box3{
+		background-color:#86c0ea;
+		color:fff;
+	}
+
+	</style>
+
+
+	<title>Web Colors</title>
+
+
+</head>
+
+<body>
+	<h1>Web Colors</h1>
+
+
+	<div id = box1>#DC143C</div>
+
+
+	<div id = box2>#DA70D6</div>
+	
+
+	<div id = box3>#456789</div>
+
+
+
+</body>
+
+
+</html>

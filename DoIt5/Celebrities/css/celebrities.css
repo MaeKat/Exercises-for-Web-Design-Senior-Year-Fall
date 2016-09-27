@@ -1,0 +1,90 @@
+	@font-face {
+  	  font-family: marmelad;
+  	  src: url(../font/marmelad/Marmelad-Regular.ttf);
+	}
+	@font-face {
+  	  font-family: nova-round;
+  	  src: url(../font/nova-round/NovaRound.ttf);
+	}	
+
+	}	
+	@font-face {
+  	  font-family: atarian;
+  	  src: url(../font/sf-atarian-system/Atarian/Atarian.ttf);
+	}
+	@font-face {
+  	  font-family: arial-black;
+  	  src: url(../font/arial-black/arial-black.ttf);
+	}		
+			
+	
+
+
+	body{
+		background-color: #ACD2BA;	
+		padding:10px;	
+	}
+
+	hr{
+		background-color: #FFF8E6;
+		height:3px;
+		width:450px;
+		border: 4px #FFF8E6 solid;
+		border-radius: 10px;
+			
+	}
+
+
+	.title{
+		font-family:atarian;	
+		color:#5D3830;	
+		text-align:center;
+		font-size:55px;
+		background-color:#D3E7DE;
+		border: 5px #D3E7DE solid;
+		border-radius: 30px;
+		width:700px;
+		heigth:57px;
+		
+	}
+
+	.celeb-type{
+		font-family:marmelad;
+		color:#5D3830;
+		font-size:22px;
+		text-decoration:underline;
+		
+	}
+
+	.info-page{
+		width:770px;
+		color:#140A00;
+		background-color: #FDB1CB;
+		padding:10px 10px 0px 10px;
+		border: 5px #FDB1CB solid; 
+		border-radius:25px;
+		margin:auto;
+		font-family:arial-black;
+	}
+
+	.name-tag{
+		width:250px;
+		height:22px;
+		color:#5D3830;
+		font-family:nova-round;
+		font-size:23px;
+		text-align:center;
+		background-color:#D3E7DE;
+		border: 5px #D3E7DE solid;
+		border-radius: 30px;
+		margin:auto;
+		padding:5px;
+	}
+
+	.celeb-image{
+		border:5px black double;
+		border-radius:9px;
+		margin:10px;
+	}
+	
+

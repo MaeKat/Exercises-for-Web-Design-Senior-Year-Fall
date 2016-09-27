@@ -1,0 +1,33 @@
+<!--  Vanessa Hoffmann | 3rd Hour | image1.html -->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<title>Cristiano Ronaldo</title>
+</head>
+
+<body>
+	<h1>Cristiano Ronaldo</h1>	
+	
+	<img src ="2-2PhotoGallery/Images/CristianoRonaldo.jpg" height = "320" width = "600" alt = "Cristiano Ronaldo"/>
+		<p>Cristiano Ronaldo smiling</p>
+	<br>
+<!--Directory-->
+	
+	<a href = "Directory/2-2index.html" target="_blank">Back to Home</a>
+	<br>
+	<a href = "Directory/2-2image1.html" target="_blank">First Image</a>
+	<br>
+	<a href = "Directory/2-2image2.html" target="_blank">Second Image</a>
+	<br>
+	<a href = "Directory/2-2image3.html" target="_blank">Third Image</a>
+	<br>
+	<a href = "Directory/2-2image4.html" target="_blank">Fourth Image</a>
+	<br>
+	<a href = "Directory/2-2image5.html" target="_blank">Fifth Image</a>
+</body>
+</html>

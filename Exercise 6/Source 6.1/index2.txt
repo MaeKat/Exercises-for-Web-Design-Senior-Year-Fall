@@ -1,0 +1,49 @@
+<!--- Vanessa Hoffmann | 3rd| 6.1 SS Box Model -->
+
+<html>
+<head>
+<title>Romanian Flag</title>
+<style>
+	div{
+		width: 133px;
+		height: 240px;
+		margin: 100px 0px 0px 50px;
+		background: yellow;
+		border-width: 0px 133px 0px 133px;	
+		border-left-color: blue;
+		border-right-color: red;
+		border-style: none solid none solid;
+		
+
+	}
+
+
+
+
+</style>
+
+
+</head>
+
+
+
+
+
+<body>
+
+
+
+<div></div>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

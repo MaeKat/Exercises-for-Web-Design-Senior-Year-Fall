@@ -1,0 +1,43 @@
+<!--- Vanessa Hoffmann | 3rd | 6.1 CSS Box Model -->
+<html>
+<head>
+<title>Lithuanian Flag</title>
+
+<style = "text/css">
+
+	div{
+		width: 400px;
+		height: 80px;
+
+	}
+	.div1{
+		background:yellow;
+	}
+	.div2{
+		background:green;
+	}
+	.div3{
+		background:red;
+	}
+
+</style>
+
+</head>
+
+
+<body>
+
+	<div class = "div1"></div>
+	<div class = "div2"></div>
+	<div class = "div3"></div>
+
+
+
+
+
+
+
+
+</body>
+
+</html>

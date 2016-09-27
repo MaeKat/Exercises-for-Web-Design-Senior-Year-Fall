@@ -1,0 +1,73 @@
+<!--  Vanessa Hoffmann | 3rd Hour| 3.2 Internal Style Sheet index -->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<title>My First CSS</title>
+<style type = "text/css">
+	h1{
+		color: red;
+		text-align: center;
+	  }
+	h2{
+		text-align: center;
+		text-decoration:underline;
+	  }
+	p{
+		color:green;
+		font-family: Tahoma;
+	 }
+	ul{
+		font-style:italic;
+	  }
+	ol{
+		font-weight:bold;
+		font-size: 20px;
+	  }
+
+
+</style>
+
+</head>
+
+<body>
+	<h1>Hello World!</h1>
+<hr>
+<!--SubHeaders -->
+	<h2>A place I would like to visit.</h2>
+		<p>I would really like to visit Germany. I would like to visit there due to its rich cluture and resiliant people.Germany is also very mountainous
+			which allows for a lot of hiking which I love to do.
+		</p>
+		<a href= "http://www.germany.travel/en/index.html" target = "_blank">Germany</a>
+
+
+	<h2>A person I admire<br>(past or present)</h2>
+		<p> I admire my older sister for persuing her dreams and doing well in the world. She may have gotten a degree that didn't work but she invested in her
+			photography and thus was able to find a career in that.
+		</p>
+
+		<a href = "http://www.lauramerikayphotography.com/" target = "_blank"> Laura Hoffmann</a>
+
+	<h2>Favorite Fruits</h2>
+		<ul>
+			<li>Blueberries</li>
+			<li>Oranges</li>
+			<li>Strawberries</li>
+			<li>Grapes</li>
+			<li>Bananas</li>
+		</ul>
+	<h2>Favorite presidents</h2>
+		<ol>
+			<li>George HW Bush</li>
+			<li>Bill Clinton</li>	
+			<li>George Washington</li>
+			<li>Thomas Jefferson</li>
+			<li>Zachary Taylor</li>
+		</ol>
+</body>
+
+</html>

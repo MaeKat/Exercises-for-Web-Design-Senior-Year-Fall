@@ -1,0 +1,53 @@
+<html>
+	<head>
+		<title>Wizard of Oz by Vanessa Hoffmann</title>
+		<link rel="stylesheet" type="text/css" href="css/ozcss.css">
+	</head>
+	
+	<body>
+		
+		<br/>
+		<div class = "title"><h2>Wizard of Oz</h2></div>
+		<br/>
+	<div class = "menu">
+		<div class = "link1">
+			<a href = "index.html">Home</a>
+		</div>
+		<div class = "link2">
+			<a href = "characters.html">Characters</a>
+		</div>	
+	</div>
+		<br/>
+		<br/>
+	<div class = "p1">
+		<p>In this film <b>Dorothy</b> and her dog <b>Toto</b> are caught in a tornado's path and somehow end up in the Land of Oz. 
+		Here she meets some memorable friends and <b>foes</b> in her journey to meet the <b>Wizard of Oz</b> who everyone says can help her return home and possibly grant her new friends their goals of a brain, heart, and courage. 
+		Here are some interesting words used in the film:</p>
+	</div>
+		<hr/>
+	<br/>
+		<dl class = "def">
+			<dt>cataclysmic</dt>	
+				<dd>-to inundate,flood,deluge</dd>
+			<dt>careworn</dt>
+				<dd>-showing the effect of grief or anxiety</dd>
+			<dt>caliginous</dt>	
+				<dd>-black, misty, dark</dd>				
+		</dl>
+		<br/>
+		<hr/>
+		<div class = "p2">
+		<p>Some things were removed from the final film. One interesting removal was
+			that the <b>Tin Man</b> actually was made into a <b>bee hive</b> by the <b>Wicked Witch</b> 
+			as <i>threatened</i> by her when on the cottage roof.</p>
+		</div>
+			
+
+		<div class = "quote"><p>"Close your eyes and tap your heels together three times.
+					 And think to yourself, there's no place like home."</p></div>
+		<hr/>
+		<div class = "name"><h4>By: Vanessa Hoffmann</h4></div>
+		<hr/>
+	</body>		
+
+</html>

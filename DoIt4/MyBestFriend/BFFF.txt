@@ -1,0 +1,136 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>My Best Friend by Vanessa Hoffmann</title>
+<style>
+	@font-face {
+   	 font-family: BlackJack;
+    	src: url('BLACKJAR.ttf') format('truetype');
+	}
+	@font-face {
+		font-family:ActionMan;
+		src:url('Action_Man.ttf') format('truetype');
+	}
+
+	body{
+		background-color:#CCDCB0;
+	}
+	p{
+		font-family:ActionMan;
+		text-align:center;
+		margin:auto;
+		width:590px;
+		background-color:#B2D29D;
+		border: 3px solid #D6AD33;
+		border-radius: 5px;
+	}
+	h1{
+		font-family:BlackJack;
+		font-size:35px;
+		text-decoration:underline;
+		margin:15px;
+	}
+	h2{
+		font-family:BlackJack;
+		margin:auto;
+		padding:5px;
+			
+	}
+	.wrap{
+		color:#183000;
+		text-align:center;
+		background-color:#81BD74;
+		border:20px double #183000;
+	}
+	.title{
+		background-color: #AACD92;
+		text-align:center;
+		font-family:BlackJack;
+		font-size:45px;
+		height:66px;
+		padding:5px;
+		margin:auto;
+		width:590px;
+		margin-top:10px;
+		border:3px solid #183000;
+		
+	}
+	
+	.clover1{
+		width:50px;
+		height:50px;
+		float: left;
+		margin-left:25%;
+		margin-top:5px;
+	}
+	.clover2{
+		width:50px;
+		height:50px;
+		float: right;
+		margin-right:25%;
+		margin-top:5px;
+		
+	}
+	
+	
+
+
+</style>
+  </head>
+
+  <body>
+    <div class = "wrap">
+	<div class = "title">The Magnificent Maya Blitch</div>
+
+	<img class= "clover1" src = "clover.jpg" alt="clover"/>
+		<img class= "clover2" src = "clover.jpg" alt="clover"/>
+	<h1> Who is Maya?</h1>
+	
+	
+		<div><p>Maya is my friend who I met in Mrs.Coco's class in 10th grade.
+			We were both taking Algebra II and she was helplessly lost
+			so I started helping her in class. Then she needed more help
+			and we started hanging out after school. We quickly then 
+			became more invested in each other's social life and assimilated
+			our two groups easily. Since then we've been through a lot of fun times</p></div>
+
+	<h1>What defines Maya?</h1>
+		<h2>Social and Outgoing</h2>
+		<div>	<p>Maya loves people. She honestly can't stop 
+			interacting with people or else I'm pretty sure she'd 
+			explode so this leads to some pretty fun experiences. 
+			like how she somehow befriends random strangers on the streets.
+			I mean all of the sleep overs are actually exhausting since
+			She just has so much energy 
+			but they're super fun and it's just wonderful to hang 
+			out with both her and everyone else... and chocolate. She absolutely loves 
+			chocolate.  Pretty much 95% of her friends are there for the absolutely
+			ridiculous amount of chocolate she consumes but she doesn't care
+			she just loves talking to other people.</p>
+			<p>
+				Maya pretty much does whatever she wants to. She'll just fall
+			on the floor just to make a scene and she doesn't even care what anyone thinks of her.
+			Maya will say exactly what she thinks no matter who can hear her and she won't censor 
+			herself. She'll go and do something crazy and then come back with an insane story to tell.
+			Maya is completely and utterly herself and it's awesome.</p>
+
+		</div>
+		<h2>Insightfull</h2>
+			<div><p>Maya know tons of stuff. She can tell you how 
+				to make a pretty awesome meal no matter what
+				ingredients you have on hand. She can give you
+				advice no matter what the situation and it'll 
+				hold fairly true and she knows when to laugh.
+				She's also able to come up with just about anything
+				on the spot to try and fix a problem so her resourcefulness
+				is pretty amazing.</p></div>
+
+		
+	
+    </div>
+  </body>
+
+</html>

@@ -1,0 +1,30 @@
+
+<!--  Vanessa Hoffmann | 3rd Hour | index-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<title>My Photo Gallery</title>
+	<link rel="stylesheet" type="text/css" href="CSS/style.css">
+</head>
+
+<body>
+	<h1>Photo Gallery</h1>	
+	
+	<a href = "2-2image1.html" target = "_blank"><img src ="Images/thumb_CristianoRonaldo.jpg" height = "80" width = "150" alt = "Cristiano Ronaldo"/></a>
+		<p>Cristiano Ronaldo smiling</p>
+	<a href = "2-2image2.html" target = "_blank"><img src = "Images/thumb_Farrari360Spider.jpg" height = "112" width ="150" alt = "Ferrari 360 Spider"/></a>
+		<p> A Ferrari 360 Spider</p>
+	<a href = "2-2image3.html" target = "_blank"><img src = "Images/thumb_FDR_Memorial.jpg" height = "97" width = "150" alt = "FDR Memorial"/></a>
+		<p>The FDR memorial in Washington D.C.</p>
+	<a href = "2-2image4.html" target = "_blank"><img src = "Images/thumb_munchkinCat.jpg" height = "96" width = "150" alt = "Munchkin Cat"/></a>
+		<p> The Munchkin cat</p>
+	<a href = "2-2image5.html" target = "_blank"><img src = "Images/munchkinCatGIF.gif" height = "150" width = "150" alt = "Munchkin Cat GIF"/></a>
+		<p> The Munchkin cat in action</p>
+</body>
+
+</html>

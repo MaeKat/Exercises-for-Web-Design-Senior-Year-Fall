@@ -1,0 +1,71 @@
+	
+	body{
+		background-image: url("../images/gradient.jpg");
+		background-repeat:repeat-x;
+		text-align:center;
+		background-color:grey;
+	}
+	.felt{
+		background-image: url("../images/felt2.jpg");
+		background-color:green;
+		height:300px;
+		width:300px;
+		position: relative;
+		top:25px;
+		left:25px;
+		
+	}
+		
+	.card-back{
+		background-image: url("../images/card.png");
+		height: 100px;
+		width: 64px;
+		position: absolute;
+		top: 50px;
+		left: 118px;
+		z-index:1;
+	}
+	
+	.king-spades{
+		background-image: url("../images/kingspades.png");
+		height: 100px;
+		width: 64px;
+		position: absolute;
+		top: 75px;
+		left: 118px;
+		z-index:2;
+		
+	}
+
+
+	.queen-hearts{
+		background-image: url("../images/queenhearts.png");
+		height: 100px;
+		width: 64px;
+		position: absolute;
+		top: 100px;
+		left: 118px;
+		z-index:3;
+	}	
+	
+	.jack-clubs{
+		background-image: url("../images/jackclubs.png");
+		height: 100px;
+		width: 64px;
+		position: absolute;
+		top: 125px;
+		left: 118px;
+		z-index:4;
+		
+	}
+	
+	.ten-diamonds{
+		background-image: url("../images/tendiamonds.png");
+		height: 100px;
+		width: 64px;
+		position: absolute;
+		top: 150px;
+		left: 118px;
+		z-index:5;
+	}
+	 

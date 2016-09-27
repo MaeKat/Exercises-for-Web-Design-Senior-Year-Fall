@@ -1,0 +1,142 @@
+@font-face {
+    font-family: oz-wizard;
+    src: url(../font/ozswizard/OzsWizard-Scarecrow.ttf);
+}	
+
+
+	body{
+		background:#A59C84;
+		font-family:Arial;
+	}
+
+	.title{
+		background:#C0B352;
+		width:300px;
+		height:50px;
+		text-align:center;
+		font-family:oz-wizard;
+		border: 2px solid #9F933A;
+		border-radius: 25px;
+		padding:10px;
+		margin:auto;
+	}
+
+	.menu{
+		
+		margin:auto;	
+		width:400px;
+		height:25px;
+		padding:5px;
+	}
+
+	.link1{
+		text-align:center;
+		border: 2px solid #645C49;
+		border-radius: 25px;
+		background-color:#dddddd;
+		width:100px;
+		position: relative;
+		top: 2px;
+		left: 37px;
+		z-index:1;
+		padding:5px;
+		
+	}
+	
+	.link2{
+		text-align:center;
+		border: 2px solid #645C49;
+		border-radius: 25px;
+		background-color:#dddddd;
+		width:100px;
+		position: relative;
+		top: -30px;
+		left: 250px;
+		z-index:2;
+		padding:5px;
+	}
+
+	a{
+		color:#9BABA8;
+		text-decoration:none;
+		
+	}
+	
+	a:hover{
+		color:#9E4325;
+	}
+
+	.def{
+		color:#fefefe;
+		font-family:Arial;
+		text-align:left;
+		background:#9BABA8;
+		width:300px;
+		height:125px;
+		border: 2px solid #fefefe;
+		border-radius: 25px;
+		padding:10px;
+		margin:auto;
+		
+	}
+
+	.quote{
+		width:600px;
+		height:50px;
+		font-style:italic;
+		text-align:center;
+		padding:10px;
+		margin:auto;
+		}
+
+	.images{
+		
+		width:600px;
+		height:500px;
+		text-align:center;
+		background:#92A756;
+		padding:10px;
+		border: 2px solid #66743C;
+		border-radius: 25px;
+		padding:10px;
+		margin:auto;
+		hspace:20px;
+		vspace:20px;
+		
+	}
+
+	.image-name{
+		width:500px;
+		height:20px;
+		font-size:20px;
+		font-weight:bold;
+		background:#D56E4B;
+		font-family:oz-wizard;
+		border: 2px solid #9E4325;
+		border-radius: 25px;
+		text-align:center;
+		padding:10px;
+		margin:auto;
+	}
+
+	.name{
+		text-align:center;
+		font-family:oz-wizard;
+	}
+	.p1{
+		width:600px;
+		height:500px;
+		background:#877E63;
+		border: 2px solid #645C49;
+		border-radius: 25px;
+		text-align:center;
+		padding:10px;
+		margin:auto;
+	}
+	
+	img{
+		border:5px solid #9E4325;
+		border-radius: 25px;
+		margin:auto;
+	}
+	

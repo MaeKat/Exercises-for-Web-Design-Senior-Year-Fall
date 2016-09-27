@@ -1,0 +1,103 @@
+<!--- Vanessa Hoffmann | 3rd | 4.3 CSS Table Styling -->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>4.3 CSS Table Styling</title>
+<style type = "text/css">
+	table{
+		width:650px;
+		border-collapse:collapse;
+		text-align: center;
+		font-family: Verdana;
+	}
+	caption{
+		font-size:30px;
+		font-weight: bold;	
+		color:green;
+		padding:10px;
+	}
+	th{
+		font-size:16px;
+		background-color: yellow;
+		border: 2px black solid;
+		padding:5px;
+		width: 15%;
+	}
+	td{
+		font-size:15px;
+		border: 2px blue dotted;
+		padding:5px;
+		width:15%
+	}
+
+	.high{
+		color:red;
+		font-weight: bold;
+		
+	}
+	.low{
+		color:blue;
+		font-weight: bold;
+	}
+
+	
+</style>
+  </head>
+
+  <body>
+<table>
+  	
+<caption>Five Day Forcast</caption>
+	<tr>
+		<th>Monday</th>
+		<th>Tuesday</th>
+		<th>Wednesday</th>
+		<th>Thursday</th>
+		<th>Friday</th>
+		
+	</tr>
+	<tr class = "high">
+		
+		<td>68</td>
+		<td>68</td>
+		<td>70</td>
+		<td>73</td>
+		<td>62</td>
+		
+		
+	</tr>
+	<tr class = "low">
+		<td>53</td>
+		<td>56</td>
+		<td>52</td>
+		<td>58</td>
+		<td>50</td>
+		
+		
+		
+	</tr>
+	<tr>
+		<td>Thunderstorms</td>
+		<td>Partly Cloudy</td>
+		<td>Chance of Rain</td>
+		<td>Clear</td>
+		<td>Windy</td>
+	</tr>
+	<tr>
+		
+		<td><img src = "Pics/tstorms.jpg" width = "55" height = "58" alt = "Thunderstorms"></td>
+		<td><img src = "Pics/pcloudy.jpg" width = "55" height = "58" alt = "Partly Cloudy"></td>
+		<td><img src = "Pics/chancerain.jpg" width = "55" height = "58" alt = "Chance of Rain"></td>
+		<td><img src = "Pics/clear.jpg" width = "55" height = "58" alt = "Clear"></td>
+		<td><img src = "Pics/windy.jpg" width = "55" height = "58" alt = "Windy"></td>
+	</tr>
+	
+</table>
+
+  </body>
+
+	</html>

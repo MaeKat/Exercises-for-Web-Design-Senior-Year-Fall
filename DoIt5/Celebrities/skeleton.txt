@@ -1,0 +1,24 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>Page Title Goes Here</title>
+  </head>
+
+  <body>
+	<div class = "background">
+ 		<div class = "title" ><h1> My Favourite Celebrities</h1></div>
+			<br/>
+		<div "celeb-type"><h2>TV Stars</h2></div>
+			<br/>
+		<div class = "info-page">
+			<div "name-tag"><h3>Jared Padalecki<h3></div>
+			<div ="celeb-image">
+		</div>
+
+	</div>
+  </body>
+
+</html>

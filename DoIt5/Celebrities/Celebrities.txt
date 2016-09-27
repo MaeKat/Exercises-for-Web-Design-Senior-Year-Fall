@@ -1,0 +1,330 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>Celebrities</title>
+    <link rel="stylesheet" type="text/css" href="css/celebrities.css">
+  </head>
+
+  <body>
+	<div class = "background">
+ 		<div class = "title" > My Favourite Celebrities</div>
+	<hr align = "left">
+	
+	<br/>
+		<div class = "celeb-type"><h2>TV Stars</h2></div>
+	<hr align= "left">
+	<br/>
+		<div class = "info-page">
+			<div class = "name-tag"> Jared Padalecki </div>
+			<img class = "celeb-image" src = "images/jared.jpg" alt = "Picture of Jared Padalecki"  height:"330px" width:"234px" vspace = "20" hspace = "20" align = "right"> 
+			<div class = "celeb text">
+			
+			Jared Padalecki was born in San Antonio, Texas, to Sherri (Kammer), a teacher of English, 
+			and Gerald Padalecki, a tax accountant. He is of Polish (father) and German, English, Scottish,
+			 and French (mother) descent. Jared started to take acting lessons when he was 12. Then, he won the
+			 "Claim to Fame" Contest in 1999 and got to appear on the Teen Choice awards. Jared lived in San Antonio, Texas
+			 and attended James Madison High School. He was named a candidate for the year 2000 Presidential Scholars Program. 
+			After graduating in the year 2000, he moved to Los Angeles, California to pursue an acting career. 
+			He played "Dean Forester" on Gilmore Girls (2000) on the WB starting in 2000 and ending in 2005. From 2005 to now, 
+			he has portrayed "Sam Winchester" on the CW's Supernatural (2005). He also has several feature film credits.
+
+			</div>
+			<hr>
+		</div>
+
+	<br/>
+			
+		<div class = "info-page">
+			<div class = "name-tag"> Rose McIver </div>
+			<img class = "celeb-image" src   = "images/rose.jpg" alt = "Picture of Rose McIver" height:300px" width:"224px" vspace = "20" hspace = "20" align = "left"> 
+			<div class = "celeb text">
+			
+			At the age of two, McIver began appearing in commercials. At the age of three, she received the role of an angel in the film The Piano.
+			She has mostly worked for New Zealand television, from fantasy-based series like Maddigan's Quest to dramas such as Rude Awakenings. She has also starred in television movies such as the Hercules film series and Maiden Voyage, as well as two Disney Channel films: Eddie's Million Dollar
+			 Cook-Off in 2003, and Johnny Kapahala: Back on Board in 2007, which is the sequel to the 1999 film Johnny Tsunami. From March to December 2009, she played Ranger Yellow Summer Landsdown in the television series Power Rangers: RPM for 32 episodes.
+			McIver's big screen debut was in Peter Jackson's film adaptation of The Lovely Bones, which received its U.S. release on 11 December 2009. In the film, she played Lindsey Salmon, the younger sister of the main character.[13]
+			She appeared in the film Predicament, based on the novel by Ronald Hugh Morrieson, which was released in New Zealand and Australia on 26 August 2010.[14] Filming took place in July and August 2009 in the towns of Hawera and Eltham.[15] In 2011,
+			 McIver appeared in the television film Tangiwai, based on the 1953 Tangiwai rail disaster. In the film, she played Nerissa Love, the fianc�e of New Zealand cricketer Bob Blair and one of the victims of the disaster.[16][17] She also had a role in the comedy series Super City, playing cheerleader Candice.[6]
+			She has appeared on an episode of Made in Hollywood, and on two episodes of the Irish talk show Xpos�.
+			From 19 March to 10 April 2010 she appeared on stage at the Herald Theatre as Izzy, the best friend of the main character in That Face.[18] McIver was also selected to participate in the 2010 Show Me Shorts Film Festival.[19]
+			Currently, McIver has put her studies at the University of Auckland on hold, and has traveled to Los Angeles for "a couple of top-secret projects".[11] She has been cast opposite Chris Lowell in the indie film Light Years.[20] McIver has also been cast in Australian rules football film, Blinder, which began filming in 
+			Torquay on 20 February 2012, before moving to Boston. The film is scheduled for release in 2013.[21][22]
+			She has been cast as the lead character in MTV's Cassandra French's Finishing School for Boys, based on the book by Eric Garcia and produced by Garcia and Krysten Ritter.[23] McIver has also been cast as a recurring character on Showtime's Masters of Sex, which is based on the book Masters of Sex: 
+			The Life and Times of William Masters and Virginia Johnson, the Couple Who Taught America How to Love by Thomas Maier. 
+			The drama will begin filming in New York in March, and will begin to air in September.[24]
+			In July 2013, it was announced that McIver landed the role of Tinker Bell for a multi-episode story arc on the series Once Upon a Time.[25]
+			In February 2014, McIver was cast as the adult Cathy Dollanganger in the Lifetime television film Petals on the Wind, adapted from the book by V. C. Andrews.[26]
+			In March 2014, McIver was announced to star in CW's new series iZombie as Liv.[27]
+			She is represented by Sue Barnett and Associates in Australia, William Morris Endeavor in California, and Johnson and Laird Management in New Zealand.
+
+			</div>
+			<hr>
+		</div>
+	<br/>
+
+		<div class = "info-page">
+			<div class = "name-tag"> Cory Michael Smith </div>
+			<img class = "celeb-image" src = "images/cory.jpg" width:"260px" height:"330px" alt = "Picture of Cory Michael Smith" vspace = "20" hspace = "20" align = "right"> 
+			<div class = "celeb text">
+
+			In 2011, Smith was seen in the New York City premiere of �The Shaggs: Philosophy of the World� at Playwrights Horizons and in 2009 to early 2012 could be seen in various regional theatre productions for the likes of New York Stage and Film.
+			 He starred in The Fantasticks at both Barrington Stage Company and The Repertory Theatre of St. Louis. He was also seen in Edith Can Shoot Things and Hit Them.[6][7]
+			Smith made his Broadway debut in Breakfast at Tiffany's in 2013. In the same theatre season, he also starred Off-Broadway in both the U.S. 
+			Premiere of Cock aka The Cockfight Play by Mike Bartlett and 'The Whale' by Samuel D. Hunter which had its world premier at Denver Center for the 
+			Performing Arts with the New York premier at Playwrights Horizons.[8] His first feature film was Camp X-Ray (film) which premiered at the 2014 Sundance Film Festival in January.
+		 	 He appeared in a short horror movie, Dog Food, co-starring Amanda Seyfried and premiered at the 2014 South by Southwest in March. Smith also appeared in the HBO mini-series Olive Kitteridge and the film Carol.[9]
+			
+			</div>
+			<hr>
+		</div>
+	<br/>
+	<br/>
+		<div class = "celeb-type"><h2>Moive Stars</h2></div>
+		<hr align= "left">
+	<br/>
+		<div class = "info-page">
+			<div class = "name-tag"> Tom Hiddleston </div>
+			<img class = "celeb-image" src = "images/tom.jpg" width:"221px" height:"330px" alt = "Picture of Tom Hiddleston" vspace = "20" hspace = "20" align = "right"> 
+			<div class = "celeb text">
+	
+			Thomas William Hiddleston was born in Westminster, London, to English-born Diana Patricia (Servaes) and Scottish-born James Norman 
+			Hiddleston. His mother is a former stage manager, and his father, a scientist, was the managing director of a pharmaceutical company.
+			He started off at the preparatory school, The Dragon School in Oxford, 
+			and by the time he was 13, he boarded at Eton College, at the same time that his parents were going through a divorce.
+			 He continued on to the University of Cambridge, where he earned a double first in Classics. 
+			He graduated from the Royal Academy of Dramatic Art in 2005.
+			Whilst at University of Cambridge, he was seen by the agency 'Hamilton Hodell' in the play 'A Streetcar 
+			named Desire' and was signed. Following this, he was cast in his first television role in _"The Life and Adventures of
+ 			Nicholas Nickleby (2001) (TV)"_. Hiddleston won his first film role as Oakley in Joanna Hogg's award-winning first feature, Unrelated (2007). 
+			His breakthrough role came when he portrayed Loki 
+			in the 2011 Marvel Studios feature film Thor (2011) and he reprised this role in The Avengers (2012).				
+
+			</div>
+			<hr>
+		</div>
+
+	<br/>
+			
+		<div class = "info-page">
+			<div class = "name-tag"> Scarlett Johansson </div>
+			<img class = "celeb-image" src = "images/scarlett.jpg" width:"307px" height:"330px" alt = "Picture of Scarlett Johansson" vspace = "20" hspace = "20" align = "left"> 
+			<div class = "celeb text">
+
+			Scarlett Johansson was born in New York City. Her mother, Melanie Sloan, is from an Ashkenazi Jewish family, and her father, 
+			Karsten Johansson, is Danish. She has a sister, Vanessa Johansson, who is also an actress, a brother, Adrian, a twin brother, 
+			Hunter Johansson, born three minutes after her, and a paternal half-brother, Christian. 
+			Scarlett showed a passion for acting at a young age and starred in many plays. She began her acting career 
+			starring as Laura Nelson in the comedy film North (1994). The acclaimed drama film The Horse Whisperer (1998) brought 
+			Johansson critical praise and worldwide recognition. Following the film's success, she starred in many other films including
+			 the critically acclaimed cult film Ghost World (2001) and then the hit Lost in Translation (2003) with Bill Murray in which she again stunned
+			 critics. Later on, she appeared in the drama film Girl with a Pearl Earring (2003).
+			In 2003, she was nominated for two Golden Globe Awards, one for drama (Girl with a Pearl Earring (2003)) and one for comedy 
+			(Lost in Translation (2003)). She dropped out of Mission: Impossible III (2006) due to scheduling conflicts. Her next film role was in The Island 
+			(2005) alongside Ewan McGregor which earned weak reviews from U.S. critics. After this, she appeared in Woody Allen's Match Point (2005) and was 
+			nominated again for a Golden Globe Award.
+			Since then, she has appeared as part of an ensemble cast in the romantic comedy He's Just Not That Into You (2009), the action superhero film	 
+			Iron Man 2 (2010), the comedy-drama We Bought a Zoo (2011) and started as the original scream queen, Janet Leigh, in Hitchcock (2012). She then 
+			played her Iron Man 2 character, Black Widow, in the blockbuster action films The Avengers (2012), Captain America: The Winter Soldier (2014), 
+			and Avengers: Age of Ultron (2015), and also headlined the science-fiction thriller Lucy (2014), a box office success.
+			Scarlett and Canadian actor Ryan Reynolds were engaged in May 2008 and married in September of that year. In 2010, the couple announced their 
+			separation, and subsequently divorced in 2011. In 2013, she became engaged to French journalist Romain Dauriac, and the couple, who have a 
+			daughter, married in 2014.
+
+			</div>
+			<hr>
+		</div>
+	<br/>
+
+		<div class = "info-page">
+			<div class = "name-tag"> Leonardo DiCaprio </div>
+			<img class = "celeb-image" src = "images/leo.jpg" width:"329px" height:"330px" alt = "Picture of Leonardo DiCaprio" vspace = "20" hspace = "20" align = "right"> 
+			<div class = "celeb text">
+
+			Few actors in the world have had a career quite as diverse as Leonardo DiCaprio's. 
+			DiCaprio has gone from relatively humble beginnings, as a supporting cast member of the sitcom Growing Pains (1985) and 
+			low budget horror movies, such as Critters 3 (1991), to a major teenage heartthrob in the 1990s, as the hunky lead actor in 
+			movies such as Romeo + Juliet (1996) and Titanic (1997), to then become a leading man in Hollywood blockbusters, made by internationally 
+			renowned directors such as Martin Scorsese and Christopher Nolan.
+
+			Leonardo Wilhelm DiCaprio was born November 11, 1974 in Los Angeles, California, the only child of Irmelin DiCaprio (n�e Indenbirken)
+ 			and former comic book artist 'George DiCaprio'. His father is of Italian and German descent, and his mother, who is German-born, is of German and Russian 
+			ancestry. His middle name, "Wilhelm", was his maternal grandfather's first name. Leonardo's father had achieved minor status as an artist and distributor of 
+			cult comic book titles, and was even depicted in several issues of American Splendor, the cult semiautobiographical comic book series by the late 'Harvey Pekar',
+			a friend of George's. Leonardo's performance skills became obvious to his parents early on, and after signing him up with a talent agent who wanted Leonardo to
+ 			perform under the stage name "Lenny Williams", DiCaprio began appearing on a number of television commercials and educational programs.
+
+			DiCaprio began attracting the attention of producers, who cast him in bit part roles in a number of television series, such as Roseanne 
+			(1988) and The New Lassie (1989), but it wasn't until 1991 that DiCaprio made his film debut in Critters 3 (1991), a low-budget horror movie. While Critters 3
+ 			(1991) did little to help showcase DiCaprio's acting abilities, it did help him develop his show-reel, and attract the attention of the people behind the hit 
+			sitcom Growing Pains (1985), in which Leonardo was cast in the "Cousin Oliver" role of a young homeless boy who moves in with the Seavers. While DiCaprio's stint
+ 			on Growing Pains (1985) was very short, as the sitcom was axed the year after he joined, it helped bring DiCaprio into the public's attention and, after the show
+			 ended, DiCaprio began auditioning for roles in which he would get the chance to prove his acting chops.
+
+			Leonardo took up a diverse range of roles in the early 1990s, including a mentally challenged youth in What's Eating Gilbert 
+			Grape (1993), a young gunslinger in The Quick and the Dead (1995) and a drug addict in one of his most challenging roles to date, "Jim Carroll", in The Basketball
+ 			Diaries (1995), a role which the late River Phoenix originally expressed interest in. While these diverse roles helped establish Leonardo's reputation
+ 			as an actor, it wasn't until his role as "Romeo" in Baz Luhrmann's Romeo + Juliet (1996) that Leonardo became a household name, a true movie star. The following
+ 			year, DiCaprio starred in another movie about doomed lovers, Titanic (1997), which went on to beat all box office records held before then, as, at the time,
+ 			Titanic (1997) became the highest grossing movie of all time, and cemented DiCaprio's reputation as a teen heartthrob. Following his work on Titanic (1997),
+ 			DiCaprio kept a low profile for a number of years, with roles in The Man in the Iron Mask (1998) and the lo			w-budget The Beach (2000) being
+			 some of his few notable roles during this period.
+
+			In 2002, he burst back into screens throughout the world with leading roles in Catch Me If You Can (2002) and Gangs of New York 
+			(2002), his first of many collaborations with director Martin Scorsese. With a current salary of $20 million a movie, DiCaprio is now one of the biggest movie
+ 			stars in the world. However, he has not limited his professional career to just acting in movies, as DiCaprio is a committed environmentalist, who is actively
+ 			involved in many environmental causes, and his commitment to this issue led to his involvement in The 11th Hour, a documentary movie about the state of the 
+			natural environment. As someone who has gone from bit parts in television commercials to one of the most respected actors in the world, DiCaprio has had one of 
+			the most diverse careers in cinema. DiCaprio continued to defy conventions about the types of roles he would accept, and with his career now seeing him leading
+			 all-star casts in action thrillers such as The Departed (2006), Shutter Island (2010) and Christopher Nolan's Inception (2010), DiCaprio continues to
+			 wow audiences by refusing to conform to any cliche about actors.
+
+			In 2012, he played a mustache-twirling villain in Django Unchained (2012), and then tragic literary character Jay Gatsby 
+			in The Great Gatsby (2013).
+
+			DiCaprio is passionate about environmental and humanitarian causes, having donated $1,000,000 to earthquake relief efforts in
+			 2010, the same year he contributed $1,000,000 to the Wildlife Conservation Society.
+
+
+			</div>
+			<hr>
+		</div>
+	<br/>
+	<br/>
+	<div class = "celeb-type"><h2>Politicians</h2></div>
+		<hr align= "left">
+	<br/>
+		<div class = "info-page">
+			<div class = "name-tag"> Vladimir Putin </div>
+			<img class = "celeb-image" src = "images/putin.jpg" width:"330px" height:"247px" alt = "Picture of Vladimir Putin" vspace = "20" hspace = "20" align = "right"> 
+			<div class = "celeb text">
+
+			Vladimir Vladimirovich Putin has been the President of Russia since 7 May 2012, succeeding Dmitry Medvedev.
+			 Putin previously served as President from 2000 to 2008, and as Prime Minister of Russia from 1999 to 2000 and again from 2008 
+			to 2012. During his last term as Prime Minister, he was also the Chairman of United Russia, the ruling party.
+
+			For 16 years Putin was an officer in the KGB, rising to the rank of Lieutenant Colonel before he retired to enter politics in his
+ 			native Saint Petersburg in 1991. He moved to Moscow in 1996 and joined President Boris Yeltsin's administration where he rose quickly,
+			 becoming Acting President on 31 December 1999 when Yeltsin unexpectedly resigned. Putin won the subsequent 2000 presidential election, despite 
+			widespread accusations of vote-rigging,[3] and was reelected in 2004. Because of constitutionally mandated term limits, Putin was ineligible to run for
+ 			a third consecutive presidential term in 2008. Dmitry Medvedev won the 2008 presidential election and appointed Putin as Prime Minister, beginning a 
+			period of so-called "tandemocracy".[4] In September 2011, following a change in the law extending the presidential term from four years to six,[5]
+			 Putin announced that he would seek a third, non-consecutive term as President in the 2012 presidential election, an announcement which led to
+			 large-scale protests in many Russian cities. In March 2012 he won the election, which was criticized for procedural irregularities, and is
+ 			serving a six-year term.[6][7]
+
+			During Putin's first premiership and presidency (1999�2008) real incomes in Russia rose by a factor of 2.5, while real wages more than
+ 			tripled; unemployment and poverty more than halved. Russians' self-assessed life satisfaction also rose significantly.[8] Putin's first
+ 			presidency was marked by high economic growth: the Russian economy grew for eight straight years, seeing GDP increase by 72% in PPP 
+			(as for nominal GDP, 600%).[8][9][10][11][12] This growth was a combined result of the 2000s commodities boom, high oil prices, as well 
+			as prudent economic and fiscal policies.[13][14]
+
+			As Russia's president, Putin and the Federal Assembly passed into law a flat income tax of 13%, a reduced profits tax, and new land and 
+			legal codes.[15][16] As Prime Minister, Putin oversaw large-scale military and police reform. His energy policy has affirmed Russia's position
+			 as an energy superpower.[17][18] Putin supported high-tech industries such as the nuclear and defence industries. A rise in foreign investment
+			[19] contributed to a boom in such sectors as the automotive industry.
+
+			Many of Putin's actions are regarded by the domestic opposition and foreign observers as undemocratic.[20] The 2011 Democracy Index stated
+			 that Russia was in "a long process of regression [that] culminated in a move from a hybrid to an authoritarian regime" in view of Putin's 
+			candidacy and flawed parliamentary elections.[21] In 2014, Russia was suspended from the G8 group as a result of its annexation of Crimea.[22][23]
+
+			</div>
+			<hr>
+		</div>
+
+	<br/>
+			
+		<div class = "info-page">
+			<div class = "name-tag"> Bernie Sanders </div>
+			<img class = "celeb-image" src = "images/bernie.jpg" width:"330px" height:"330px" alt = "Picture of Bernie Sanders" vspace = "20" hspace = "20" align = "left"> 
+			<div>
+
+			Bernard "Bernie" Sanders (born September 8, 1941) is an American politician and the junior United States Senator from Vermont.
+ 			The longest-serving independent in U.S. Congressional history, Sanders caucuses with the Democratic Party and has been the ranking minority member on
+ 			the Senate Budget Committee since January 2015.[3] He is a candidate for President of the United States in the 2016 U.S. presidential election.
+
+			Sanders was born and raised in the borough of Brooklyn, in New York City. He graduated from the University of Chicago in 1964. While a student, Sanders 
+			was a member of the Young People's Socialist League and an active Civil Rights protest organizer for the Congress of Racial Equality and the Student
+			 Nonviolent Coordinating Committee.[4][5] In 1963, he participated in the March on Washington for Jobs and Freedom. After settling in Vermont in 1968,
+			 Sanders ran unsuccessful third-party campaigns for governor and U.S. senator in the early to mid-1970s. As an independent, he was elected mayor of Burlington,
+			 Vermont's most populous city, in 1981. He was reelected three times before being elected to represent Vermont's at-large congressional district in the 
+			United States House of Representatives in 1990. He served as a congressman for 16 years before being elected to the U.S. Senate in 2006. In 2012, he was
+			reelected by a large margin, capturing almost 71% of the popular vote.
+
+			A self-described democratic socialist,[10] Sanders favors policies similar to those of social democratic parties in Europe, particularly those instituted
+			 by the Nordic countries.[14] Sanders is known as a leading progressive voice on issues such as income inequality,[7] universal healthcare, parental leave,
+			 climate change,[15] LGBT rights, and campaign finance reform.[16] He rose to national prominence following his 2010 filibuster[17][18] against the proposed
+ 			extension of the Bush tax cuts. He is also outspoken on civil rights and civil liberties, and has been particularly critical of mass surveillance policies
+ 			such as the USA PATRIOT Act,[19] the NSA surveillance program,[20] and racial discrimination in the criminal justice system. He has long been critical of
+ 			U.S. foreign policy, and was an early and outspoken opponent of the Iraq War.			
+
+			</div>
+			<hr>
+		</div>
+	<br/>
+
+		<div class = "info-page">
+			<div class = "name-tag"> Angela Merkel </div>
+			<img class = "celeb-image" src = "images/angela.jpg" width:"330px" height:"247px" alt = "Picture of Angela Merkel" vspace = "20" hspace = "20" align = "right"> 
+			<div>
+
+			Angela Dorothea Merkel[a] (born 17 July 1954) is a German politician and former research scientist who has been the Chancellor
+ 			of Germany since 2005 and the Leader of the Christian Democratic Union (CDU) since 2000. She is the first woman to hold either office.[7]
+
+			Having earned a doctorate as a physical chemist, Merkel entered politics in the wake of the Revolutions of 1989, briefly 
+			serving as a deputy spokesperson for the first democratically elected East German Government in 1990. Following German reunification in 1990, she
+ 			was elected to the Bundestag for Stralsund-Nordvorpommern-R�gen in the state of Mecklenburg-Vorpommern, a seat she has held ever since. She was 
+			later appointed as the Minister for Women and Youth in 1991 under Chancellor Helmut Kohl, later becoming the Minister for the Environment in 1994. 
+			After Kohl was defeated in 1998, she was elected Secretary-General of the CDU before becoming the party's first female leader two years later in the
+			 aftermath of a donations scandal that toppled Wolfgang Sch�uble.
+
+			Following the 2005 federal election, she was appointed Germany's first female Chancellor at the head of a grand coalition
+ 			consisting of the CDU, its Bavarian sister party, the Christian Social Union (CSU), and the Social Democratic Party of Germany (SPD). In the 2009 federal 
+			election, the CDU obtained the largest share of the vote and Merkel was able to form a coalition government with the support of the Free Democratic Party 
+			(FDP).[8] At the 2013 federal election, Merkel won a landslide victory with 41.5% of the vote, falling just short of an overall majority, and formed a
+ 			second grand coalition with the SPD, after the FDP lost all of its representation in the Bundestag.[9]
+
+			In 2007, Merkel was President of the European Council and chaired the G8, the second woman to do so. She played a central
+ 			role in the negotiation of the Treaty of Lisbon and the Berlin Declaration. One of her priorities was also to strengthen transatlantic economic 
+			relations by signing the agreement for the Transatlantic Economic Council on 30 April 2007. Merkel was seen as having played a crucial role in managing
+			 the financial crisis at the European and international level, and has been referred to as "the decider."[10] In domestic policy, health care reform
+ 			and problems concerning future energy development have been major issues during her Chancellorship.
+
+			Merkel has been described as the de facto leader of the European Union, and was ranked as the world's second most powerful 
+			person by Forbes magazine in 2012, the highest ranking ever achieved by a woman; she is currently ranked fifth.[11][12][13][14][15][16] On 26 March 2014,
+			 she became the longest-serving incumbent head of government in the European Union. Merkel is currently the Senior G7 leader. In May 2015, she was 
+			named the most powerful woman in the world for a record ninth time by Forbes.[17]			
+
+			</div>
+			<hr>
+		</div>
+	<br/>
+	<br/>
+	<div class = "info-page">
+		<div class = "name-tag">Work Cited</div>
+		<div>
+			
+			"Angela Merkel." Wikipedia. Wikimedia Foundation, n.d. Web. 21 Oct. 2015.<br/>
+			"Bernie Sanders." Wikipedia. Wikimedia Foundation, n.d. Web. 21 Oct. 2015.<br/>
+			"Biography Jared Padalecki." IMDb. IMDb.com, n.d. Web. 21 Oct. 2015.<br/>
+			"Biography Leonardo DiCaprio." IMDb. IMDb.com, n.d. Web. 21 Oct. 2015.<br/>
+			"Biography Scarlett Johansson." IMDb. IMDb.com, n.d. Web. 21 Oct. 2015.<br/>
+			"Biography Tom Hiddleston." IMDb. IMDb.com, n.d. Web. 21 Oct. 2015.<br/>
+			"Cory Michael Smith." Wikipedia. Wikimedia Foundation, n.d. Web. 21 Oct. 2015.<br/>
+			"Rose McIver." Wikipedia. Wikimedia Foundation, n.d. Web. 21 Oct. 2015.<br/>
+			"Vladimir Putin." Wikipedia. Wikimedia Foundation, n.d. Web. 21 Oct. 2015.<br/>
+		</div>
+		
+	</div>
+
+
+
+	</div>
+
+	
+
+  </body>
+
+</html>

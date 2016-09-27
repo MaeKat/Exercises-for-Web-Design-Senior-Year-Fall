@@ -1,0 +1,81 @@
+<html>
+<head>
+<title>Web Form</title>
+<style type = "text/css">
+<style>
+
+	.feedback{
+		width:500px;
+		background-color: #DDD;
+		margin: 25px 0px 0px 25px;
+		padding: 10px 5px;
+		border:1px solid black;
+		font-family: Tahoma, Arial, sans-serif;
+		font-size:13px;
+		}
+	.caption{
+		font-size:16px;
+		}
+	.label{
+		text-align: right;
+		width: 100px;
+		float: left;
+		padding: 5px;
+		margin-right: 20px;
+		}
+	.data{
+		text-align:left;
+		padding:5px;
+		}
+	.clearfloat{
+		clear:both;
+		}
+	.tall{
+		height:60px;
+		padding-top:34px;
+		}
+	.button{
+		text-align:center;
+		padding:15px 0px;
+		}
+	
+
+		
+</style>
+</head>
+<body>
+	<form class = "feedback" method = "post" action = "index.html">
+<fieldset>
+	<legend class = "caption"> Giv us your Feedback</legend>
+
+		<div class = "label">First Name : </div>
+		<div class = "data">
+			<input type="text" size="45" name ="firstname"/><br/>
+		</div>
+	</form>
+
+	<form method = "post" action = "index.html">
+		Year:
+		<input type = "radio" name ="Year" value ="Freshman"/>Freshman <br/>
+		<input type = "radio" name ="Year" value ="Sophomore"/>Sophomore <br/>
+		<input type = "radio" name ="Year" value ="Junior"/>Junior <br/>
+		<input type = "radio" name ="Year" value ="Senior"/>Freshman <br/>
+	</form>
+
+	<form method = "post" action = "index.html">
+		Quarter:
+	<select name = "season">
+
+		<option value = "spring">Spring</option>
+		<option value = "summer">Summer</option>		
+		<option value = "fall">Fall</option>
+		<option value = "winter">Winter</option>		
+	</select>
+	</form>
+
+		<form class = "feedback" method = "post" action = "index.html">
+		<textarea name = "more" rows = "8" cols = "50">Enter your feedback here.
+		</textarea>
+		</form>
+</body>
+</html>
